@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Source++](https://sourceplus.plus), powered by [Upptime](https://github.com/upptime/upptime).
 
