@@ -27,3 +27,5 @@ status-website:
 
 assignees: # Users to assign downtime issues (optional)
   - bfergerson
+
+graphBackgroundColor: #78b159
