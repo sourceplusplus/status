@@ -25,4 +25,4 @@ graphBackgroundColor: "#e6e6e6"
 graphBorderColor: "#20bf6b"
 
 i18n:
-  footer: This page is [open source]($REPO).
+  footer:
