@@ -10,7 +10,7 @@ sites:
 status-website:
   cname: status.sourceplus.plus
   themeUrl: https://cdn.statically.io/gh/sourceplusplus/status/master/assets/spp-theme-v3.css #todo: shouldn't need statically
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://sourceplus.plus/assets/logo/logo-dark.svg
   name: Status | Source++
   navbar:
     - title: Status
