@@ -5,16 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: Demo Server
     url: https://demo.sourceplus.plus
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://sourceplus.plus
 
 status-website:
   cname: status.sourceplus.plus
-  themeUrl: https://cdn.statically.io/gh/sourceplusplus/status/master/assets/spp-theme-v2.css #todo: shouldn't need statically
+  themeUrl: https://cdn.statically.io/gh/sourceplusplus/status/master/assets/spp-theme-v3.css #todo: shouldn't need statically
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
