@@ -14,7 +14,7 @@ sites:
 
 status-website:
   cname: status.sourceplus.plus
-  themeUrl: https://status.sourceplus.plus/spp-theme.css
+  themeUrl: https://cdn.statically.io/gh/sourceplusplus/status/master/assets/spp-theme.css #todo: shouldn't need statically
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
