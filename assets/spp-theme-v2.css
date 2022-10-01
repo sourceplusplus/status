@@ -24,3 +24,16 @@
   --graph-opacity: 1;
   --graph-filter: none;
 }
+
+article.down {
+  border-left: 0.4rem solid;
+}
+article.degraded {
+  border-left: 0.4rem solid;
+}
+article.up {
+  border-left: 0.4rem solid;
+}
+.chartjs-render-monitor {
+    filter: hue-rotate(34deg) saturate(164%) brightness(89%);
+}
