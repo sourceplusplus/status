@@ -42,7 +42,7 @@
     "slug": "source-demos",
     "status": "down",
     "uptime": "95.16%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.49%",
     "uptimeMonth": "95.16%",
     "uptimeYear": "95.16%",
@@ -52,7 +52,7 @@
     "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-10-24": 0,
+      "2022-10-24": 1,
       "2022-10-22": 24,
       "2022-10-21": 24,
       "2022-10-20": 21,
