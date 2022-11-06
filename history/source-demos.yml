@@ -1,7 +1,7 @@
 url: https://demo.sourceplus.plus
-status: up
-code: 200
-responseTime: 79
-lastUpdated: 2022-11-06T13:08:35.670Z
+status: down
+code: 502
+responseTime: 110
+lastUpdated: 2022-11-06T13:42:22.807Z
 startTime: Sat Oct 01 2022 11:39:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
