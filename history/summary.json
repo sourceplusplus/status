@@ -4,19 +4,19 @@
     "url": "https://sourceplus.plus",
     "icon": "https://icons.duckduckgo.com/ip3/sourceplus.plus.ico",
     "slug": "source-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 360,
-    "timeWeek": 387,
-    "timeMonth": 393,
+    "timeDay": 354,
+    "timeWeek": 386,
+    "timeMonth": 392,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2022-11-14": 0
+      "2022-11-14": 2
     }
   },
   {
@@ -33,7 +33,7 @@
     "time": 405,
     "timeDay": 688,
     "timeWeek": 446,
-    "timeMonth": 403,
+    "timeMonth": 402,
     "timeYear": 405,
     "dailyMinutesDown": {}
   },
