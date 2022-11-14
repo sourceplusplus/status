@@ -6,8 +6,8 @@
     "slug": "source-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
@@ -15,9 +15,7 @@
     "timeWeek": 386,
     "timeMonth": 392,
     "timeYear": 400,
-    "dailyMinutesDown": {
-      "2022-11-14": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Source++ Documentation",
