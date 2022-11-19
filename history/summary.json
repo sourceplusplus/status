@@ -4,18 +4,20 @@
     "url": "https://sourceplus.plus",
     "icon": "https://icons.duckduckgo.com/ip3/sourceplus.plus.ico",
     "slug": "source-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
     "timeDay": 491,
     "timeWeek": 408,
-    "timeMonth": 397,
+    "timeMonth": 398,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-19": 1
+    }
   },
   {
     "name": "Source++ Documentation",
