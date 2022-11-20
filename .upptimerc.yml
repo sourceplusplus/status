@@ -6,6 +6,8 @@ sites:
     url: https://sourceplus.plus
   - name: Source++ Documentation
     url: https://docs.sourceplus.plus
+  - name: Source++ Cloud
+    url: https://cloud.sourceplus.plus
 
 status-website:
   cname: status.sourceplus.plus
