@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 399,
-    "timeDay": 427,
-    "timeWeek": 368,
+    "time": 400,
+    "timeDay": 433,
+    "timeWeek": 370,
     "timeMonth": 400,
-    "timeYear": 399,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2022-11-19": 22
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 360,
-    "timeWeek": 358,
+    "timeDay": 356,
+    "timeWeek": 360,
     "timeMonth": 380,
     "timeYear": 391,
     "dailyMinutesDown": {}
@@ -43,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.sourceplus.plus.ico",
     "slug": "source-cloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 409,
-    "timeWeek": 350,
+    "timeDay": 413,
+    "timeWeek": 351,
     "timeMonth": 366,
     "timeYear": 366,
-    "dailyMinutesDown": {
-      "2022-12-18": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
