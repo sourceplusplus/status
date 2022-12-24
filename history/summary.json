@@ -42,17 +42,19 @@
     "url": "https://cloud.sourceplus.plus",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.sourceplus.plus.ico",
     "slug": "source-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 379,
-    "timeDay": 536,
-    "timeWeek": 431,
-    "timeMonth": 381,
+    "timeDay": 524,
+    "timeWeek": 430,
+    "timeMonth": 380,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-24": 0
+    }
   }
 ]
