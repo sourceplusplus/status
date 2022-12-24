@@ -42,19 +42,19 @@
     "url": "https://cloud.sourceplus.plus",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.sourceplus.plus.ico",
     "slug": "source-cloud",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.87%",
-    "time": 379,
-    "timeDay": 486,
-    "timeWeek": 430,
-    "timeMonth": 381,
-    "timeYear": 379,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.85%",
+    "time": 380,
+    "timeDay": 496,
+    "timeWeek": 432,
+    "timeMonth": 382,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2022-12-24": 65
+      "2022-12-24": 76
     }
   }
 ]
